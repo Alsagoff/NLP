@@ -11,6 +11,3 @@ The wardrobe.csv file is my personal wardrobe transcribed into excel but can eas
 ### _What's the point?_
 
 Fashion has a huge sustainability issue. Several companies who have tried to address this have even been accused for greenwashing in a bid to actually sell even more clothes. The conversation has been too focussed on recycling and too little on the first two R's, 'Reduce' and 'Reuse'. Instead of continuing to buy more, it might be better to remind ourselves of what we already own and to play around with mixing and matching instead of adding. 
-
-
-[Link to Nadia's GitHub](https://git.arts.ac.uk/Nadia/NLP-Project)
